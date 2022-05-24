@@ -19,7 +19,7 @@ namespace Utils
     {
         public static void PrintSomething()
         {
-            Console.WriteLine("TEST 2");
+            Console.WriteLine("TEST 3");
         }
 
         public static bool StartsWithUpper(this string str)
